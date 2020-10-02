@@ -85,3 +85,10 @@
         modified:   backend/README.MD
         modified:   backend/package-lock.json
         modified:   backend/package.json
+
+## 4. Singup validator
+
+  modified:   README.MD
+        modified:   backend/routes/route_auth.js
+        new file:   backend/validators/auth.js
+        new file:   backend/validators/index.js  
