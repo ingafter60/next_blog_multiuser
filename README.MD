@@ -93,3 +93,75 @@
         modified:   backend/routes/route_auth.js
         new file:   backend/validators/auth.js
         new file:   backend/validators/index.js       
+
+## 5. User schema virtual fields and methods
+
+  modified:   README.MD
+        modified:   backend/README.MD
+        modified:   backend/models/model_user.js
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
