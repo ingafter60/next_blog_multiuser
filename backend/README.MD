@@ -77,3 +77,11 @@
         new file:   backend/controllers/controller_auth.js
         new file:   backend/routes/route_auth.js
         modified:   backend/server.js
+
+## 3. Installing packages for auth and blog
+
+  > npm install express-validator jsonwebtoken express-jwt formidable lodash slugify string-strip-html
+  modified:   README.MD
+        modified:   backend/README.MD
+        modified:   backend/package-lock.json
+        modified:   backend/package.json
