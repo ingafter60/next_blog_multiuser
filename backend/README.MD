@@ -12,3 +12,10 @@
   # Create README.MD and .gitignore files
   > E:\202009projects\MERN\rd\next_blog_multiuser> touch README.MD
   > E:\202009projects\MERN\rd\next_blog_multiuser> touch .gitignore
+
+## 2. Install packages for the backend
+
+  > E:\202009projects\MERN\rd\next_blog_multiuser\backend>npm install express mongoose body-parser cookie-parser morgan nodemon dotenv cors
+  modified:   backend/README.MD
+        new file:   backend/package-lock.json
+        modified:   backend/package.json
