@@ -47,3 +47,11 @@
         modified:   backend/README.MD
         new file:   backend/routes/route_blog.js
         modified:   backend/server.js
+
+## 7. Controllers
+
+  modified:   README.MD
+        modified:   backend/README.MD
+        new file:   backend/controllers/controller_blog.js
+        modified:   backend/routes/route_blog.js
+        modified:   backend/server.js
