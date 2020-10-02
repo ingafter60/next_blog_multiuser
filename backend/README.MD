@@ -19,3 +19,6 @@
   modified:   backend/README.MD
         new file:   backend/package-lock.json
         modified:   backend/package.json
+
+## 3. Create server and .env files
+
