@@ -100,6 +100,12 @@
         modified:   backend/README.MD
         modified:   backend/models/model_user.js
 
+## 6. User signup
+
+  modified:   controllers/controller_auth.js
+        modified:   models/model_user.js
+        modified:   package-lock.json
+        modified:   package.json
 
 
 
