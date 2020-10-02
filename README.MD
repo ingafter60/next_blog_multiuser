@@ -69,3 +69,12 @@
         new file:   _lessonImages/2020-10-02_102321.png
         modified:   backend/README.MD
         new file:   backend/models/model_user.js
+
+## 2. Signup route and controller setup
+
+  modified:   .gitignore
+        modified:   README.MD
+        new file:   _sourcecodes/react-node-next-multi-user-blogging-platform
+        new file:   backend/controllers/controller_auth.js
+        new file:   backend/routes/route_auth.js
+        modified:   backend/server.js
