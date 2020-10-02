@@ -61,52 +61,60 @@
 
 # 2. USER SIGN UP AND SIGN IN 
 
-## 1. User model and schema
+  ## 1. User model and schema
 
-  modified:   .gitignore
-        modified:   README.MD
-        new file:   _lessonImages/2020-10-02_102321.png
-        modified:   backend/README.MD
-        new file:   backend/models/model_user.js
+    modified:   .gitignore
+          modified:   README.MD
+          new file:   _lessonImages/2020-10-02_102321.png
+          modified:   backend/README.MD
+          new file:   backend/models/model_user.js
 
-## 2. Signup route and controller setup
+  ## 2. Signup route and controller setup
 
-  modified:   .gitignore
-        modified:   README.MD
-        new file:   _sourcecodes/react-node-next-multi-user-blogging-platform
-        new file:   backend/controllers/controller_auth.js
-        new file:   backend/routes/route_auth.js
-        modified:   backend/server.js
+    modified:   .gitignore
+          modified:   README.MD
+          new file:   _sourcecodes/react-node-next-multi-user-blogging-platform
+          new file:   backend/controllers/controller_auth.js
+          new file:   backend/routes/route_auth.js
+          modified:   backend/server.js
 
-## 3. Installing packages for auth and blog
+  ## 3. Installing packages for auth and blog
 
-  > npm install express-validator jsonwebtoken express-jwt formidable lodash slugify string-strip-html
-  modified:   README.MD
-        modified:   backend/README.MD
-        modified:   backend/package-lock.json
-        modified:   backend/package.json
+    > npm install express-validator jsonwebtoken express-jwt formidable lodash slugify string-strip-html
+    modified:   README.MD
+          modified:   backend/README.MD
+          modified:   backend/package-lock.json
+          modified:   backend/package.json
 
-## 4. Singup validator
+  ## 4. Singup validator
 
-  modified:   README.MD
-        modified:   backend/routes/route_auth.js
-        new file:   backend/validators/auth.js
-        new file:   backend/validators/index.js  
+    modified:   README.MD
+          modified:   backend/routes/route_auth.js
+          new file:   backend/validators/auth.js
+          new file:   backend/validators/index.js  
 
 
-## 5. User schema virtual fields and methods
+  ## 5. User schema virtual fields and methods
 
-  modified:   README.MD
-        modified:   backend/README.MD
-        modified:   backend/models/model_user.js
+    modified:   README.MD
+          modified:   backend/README.MD
+          modified:   backend/models/model_user.js
 
-## 6. User signup
+  ## 6. User signup
 
-  modified:   controllers/controller_auth.js
-        modified:   models/model_user.js
-        modified:   package-lock.json
-        modified:   package.json
+    modified:   controllers/controller_auth.js
+          modified:   models/model_user.js
+          modified:   package-lock.json
+          modified:   package.json
 
+  ## 7. Trying user signin
+
+    modified:   README.MD
+          modified:   backend/.env
+          modified:   backend/controllers/controller_auth.js
+          modified:   backend/routes/route_auth.js
+          modified:   backend/validators/auth.js
+          new file:   package-lock.json
 
 
 
