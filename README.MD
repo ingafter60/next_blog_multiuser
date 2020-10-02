@@ -34,3 +34,9 @@
   modified:   README.MD
         modified:   backend/README.MD
         modified:   backend/server.js
+
+## 5. Setting up MongoDb as the database
+   modified:   README.MD
+        modified:   backend/.env
+        modified:   backend/README.MD
+        modified:   backend/server.js     
