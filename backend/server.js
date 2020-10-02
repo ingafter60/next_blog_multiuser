@@ -7,6 +7,9 @@ const cors = require('cors')
 const mongoose  = require('mongoose')
 require('dotenv').config()
 
+// import route
+const blogRoutes = require('./routes/route_blog')
+
 // app
 const app = express()
 
@@ -27,10 +30,8 @@ if(process.env.NODE_ENV == 'development'){
   app.use(cors({ origin: `${process.env.CLIENT_URL}`}))
 }
 
-// routes
-app.get('/api', (req, res) => {
-  res.json({time: Date().toString()})
-})
+// routes middleware
+app.use(blogRoutes)
 
 // port
 const port = process.env.PORT || 8000

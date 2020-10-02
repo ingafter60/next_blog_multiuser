@@ -40,3 +40,10 @@
         modified:   backend/.env
         modified:   backend/README.MD
         modified:   backend/server.js     
+
+## 6. Separating routes and use it as middleware
+
+  modified:   README.MD
+        modified:   backend/README.MD
+        new file:   backend/routes/route_blog.js
+        modified:   backend/server.js
