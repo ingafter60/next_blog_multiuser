@@ -20,5 +20,19 @@
         new file:   backend/package-lock.json
         modified:   backend/package.json
 
-## 3. Create server and .env files
+## 3. Setup the server
+
+  > E:\202009projects\MERN\rd\next_blog_multiuser\backend>touch server.js
+  modified:   README.MD
+        new file:   backend/.env
+        modified:   backend/README.MD
+        modified:   backend/package.json
+        new file:   backend/server.js
+
+## 4. POSTMAN and using Cors to communicate between Client and Server
+
+  modified:   README.MD
+        modified:   backend/README.MD
+        modified:   backend/server.js
+
 

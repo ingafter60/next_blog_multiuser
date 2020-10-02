@@ -28,3 +28,9 @@
         modified:   backend/README.MD
         modified:   backend/package.json
         new file:   backend/server.js
+
+## 4. POSTMAN and using Cors to communicate between Client and Server
+
+  modified:   README.MD
+        modified:   backend/README.MD
+        modified:   backend/server.js
